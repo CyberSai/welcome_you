@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="email">E-Mail Address</string>
+    <string name="password">Password</string>
+    <string name="name">Full Name</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="to_login">Go To Login</string>
+    <string name="to_register">Go To Register</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="logout">Logout</string>
+    <string name="login_success">You have successfully logged in</string>
+    <string name="login_failed">Your credentials are not right</string>
+    <string name="login_illegal">You don\'t have permission yet. Login</string>
+    <string name="register_success">You have successfully registered</string>
+    <string name="register_failed">We could not create your account</string>
+    <string name="welcome_message">Welcome, Please logout since there nothing to do</string>
+    <string name="user_name_key">com.example.login.USER_NAME</string>
+    <string name="logout_success">Come back soon!!!</string>
+</resources>
